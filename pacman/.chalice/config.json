@@ -2,7 +2,7 @@
   "version": "2.0",
   "app_name": "pacman",
   "environment_variables": {
-    "BUCKET_NAME": "dsac-uva-cloud-2"
+    "BUCKET_NAME": "dsac-uva-cloud"
   },
   "stages": {
     "dev": {

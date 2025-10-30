@@ -12,9 +12,11 @@ See `ec2-with-eip.yaml` in this repository. To launch:
 
 ## Lambda / S3 / Chalice Demo
 
+See the `pacman/` directory included, as well as the video linked below.
+
 ## Resources
 
-- **Slide Deck** (coming soon)
+- [**Slide Deck**](DSAC-Intro-to-Cloud.pdf)
 - [**AWS Snippets**](https://github.com/nmagee/aws-snippets)
 - [**AWS Academy Signup**](https://bit.ly/dsac-cloud)
 - [**VIDEO - How-To: Create an Event-driven Pipeline using AWS Chalice**](https://www.youtube.com/watch?v=Xy2r7rEeQbA)
